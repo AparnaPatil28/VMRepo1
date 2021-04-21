@@ -6,6 +6,7 @@ class javaDemo2
    {
 
       System.out.println("This is 2nd Java file.");
+      System.out.println("This line is added in feature1.");
 
    } 
 
